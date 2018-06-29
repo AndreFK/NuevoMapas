@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Airport_DLL_BACKEND.cpp
+  dllmain.cpp
+  Generating Code...
+  LINK : C:\Users\Usuario\Desktop\mapas\Airport_DLL_BACKEND\Debug\Airport_DLL_BACKEND.dll not found or not built by the last incremental link; performing full link
+     Creating library C:\Users\Usuario\Desktop\mapas\Airport_DLL_BACKEND\Debug\Airport_DLL_BACKEND.lib and object C:\Users\Usuario\Desktop\mapas\Airport_DLL_BACKEND\Debug\Airport_DLL_BACKEND.exp
+  Airport_DLL_BACKEND.vcxproj -> C:\Users\Usuario\Desktop\mapas\Airport_DLL_BACKEND\Debug\Airport_DLL_BACKEND.dll
