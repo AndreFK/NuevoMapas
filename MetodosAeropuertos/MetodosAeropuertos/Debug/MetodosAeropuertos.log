@@ -1,0 +1,11 @@
+﻿  Body.cpp
+c:\users\usuario\desktop\mapas\metodosaeropuertos\metodosaeropuertos\body.cpp(452): warning C4018: '<': signed/unsigned mismatch
+c:\users\usuario\desktop\mapas\metodosaeropuertos\metodosaeropuertos\body.cpp(453): warning C4018: '<': signed/unsigned mismatch
+c:\users\usuario\desktop\mapas\metodosaeropuertos\metodosaeropuertos\body.cpp(462): warning C4018: '<': signed/unsigned mismatch
+c:\users\usuario\desktop\mapas\metodosaeropuertos\metodosaeropuertos\body.cpp(469): warning C4018: '<': signed/unsigned mismatch
+  Edge.cpp
+  Main.cpp
+  Vertex.cpp
+  Generating Code...
+c:\users\usuario\desktop\mapas\metodosaeropuertos\metodosaeropuertos\body.cpp(474): warning C4715: 'ProyectMethods::weight': not all control paths return a value
+  MetodosAeropuertos.vcxproj -> C:\Users\Usuario\Desktop\mapas\MetodosAeropuertos\MetodosAeropuertos\Debug\MetodosAeropuertos.exe
